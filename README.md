@@ -61,8 +61,7 @@ optimization/direct_collocation
 
 Reference:
 Kelly, M.  
-An Introduction to Trajectory Optimization: How to Do Your Own Direct Collocation.
-https://www.matthewpeterkelly.com/tutorials/trajectoryOptimization/index.html
+An Introduction to Trajectory Optimization: How to Do Your Own Direct Collocation: https://www.matthewpeterkelly.com/tutorials/trajectoryOptimization/index.html
 
 --
 
@@ -96,6 +95,7 @@ simulation/self_balancing
 
 
 All projects are implemented for simulation and educational research purposes.
+
 
 
 
