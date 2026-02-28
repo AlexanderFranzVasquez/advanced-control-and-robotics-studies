@@ -45,7 +45,6 @@ Zero Dynamics, Pendulum Models, and Angular Momentum in Feedback Control of Bipe
 Folder:
 manipulation/
 
-
 ---
 
 ### 3. Optimization
@@ -97,5 +96,6 @@ simulation/self_balancing
 
 
 All projects are implemented for simulation and educational research purposes.
+
 
 
