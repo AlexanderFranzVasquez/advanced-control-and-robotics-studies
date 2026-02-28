@@ -21,7 +21,10 @@ The objective of this repository is educational and research-oriented: to explor
 Folder:
 locomotion/alip
 
+## Reference
 
+Gong, Y., & Grizzle, J. W.  
+*Zero Dynamics, Pendulum Models, and Angular Momentum in Feedback Control of Bipedal Locomotion.*
 ---
 
 ### 2. Manipulation
@@ -57,7 +60,11 @@ manipulation/
 Folder:
 optimization/direct_collocation
 
+## Reference
 
+Kelly, M.  
+*An Introduction to Trajectory Optimization: How to Do Your Own Direct Collocation.*  
+https://www.matthewpeterkelly.com/tutorials/trajectoryOptimization/index.html
 ---
 
 ### 4. Multibody Simulation
@@ -87,5 +94,6 @@ simulation/self_balancing
 ---
 
 ## Notes
+
 
 All projects are implemented for simulation and educational research purposes.
